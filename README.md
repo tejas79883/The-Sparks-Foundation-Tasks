@@ -19,7 +19,7 @@ _Please click on the images on right side to view my solution._
 1. You can use R, Python, SAS Enterprise Miner or any other tool.
 1. What will be predicted score if a student studies for 9.25 hrs/ day?
 
-### # Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
+### # Task-6 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 _Please click on the images on right side to view my solution._
 
 1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
