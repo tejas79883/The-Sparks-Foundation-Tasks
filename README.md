@@ -8,7 +8,7 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Duration** - 1 Month (Jan-2024 )
 - **Internship Type** - Work from Home
 
- In this internship, we were provided a total of 6 Tasks and I was able to successfully complete all the 3 tasks within the given time-frame.
+ In this internship, we were provided a total of 8 Tasks and I was able to successfully complete all the 3 tasks within the given time-frame.
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
 _Please click on the images on right side to view my solution._
